@@ -79,3 +79,6 @@ $confirm12 = Read-Host "Do you wish to uninstall Your Phone from your computer? 
 if($confirm12 -eq "y") {
     Get-AppxPackage -AllUsers Microsoft.YourPhone | Remove-AppxPackage
 }
+
+Write-Host "Thank you for using this script. Have a great day! - whiteex"
+Pause
