@@ -1,4 +1,4 @@
-Write-Host "whiteex's Cleanr"
+Write-Host "=====> whiteex's Cleanr <====="
 Write-Host "This script will remove most of the Windows built-in apps."
 
 # Alarms & Clock
